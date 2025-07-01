@@ -1,0 +1,401 @@
+Order ID,Customer Name,Order Date,Ship Date,Product,Quantity,Price,Total Price,Region
+2001,Chris Paul,2025-03-08,3/28/2025,Charger,3,50,-85,East
+2002,Eva White,03/07/2025,3/28/2025,Tablet,2,$600,1525,East
+2003,Olivia Adams,03/07/2025,3/28/2025,Monitor,2,50,4007,North
+2004,Robert Finch,03/14/2025,3/28/2025,Mouse,-2,650,1848,West
+2005,Sarah Lee,03/01/2025,3/28/2025,Monitor,1,$300,1895,North
+2006,Olivia Adams,03/10/2025,3/28/2025,Laptop,2,$800,1458,
+2007,Mike Green,03/13/2025,3/28/2025,Laptop,-2,850,1758,South
+2008,Chris Paul,03/08/2025,3/28/2025,Monitor,3,$200,2988,South
+2009,Emma Stone,"March 7, 2025",3/28/2025,Mouse,4,$200,1350,North
+2010,Alan Brown,03/13/2025,3/28/2025,Monitor,1,50,1293,West
+2011,Chris Paul,2025-03-05,3/28/2025,Mouse,two,650,4026,
+2012,Robert Finch,"March 20, 2025",3/28/2025,Mouse,-3,$300,3147,East
+2013,Robert Finch,"March 8, 2025",3/28/2025,Keyboard,-3,100,4666,North
+2014,Sarah Lee,2025-03-19,3/28/2025,Charger,3,$200,59,West
+2015,Mike Green,2025-03-04,3/28/2025,Headphones,3,$300,2475,East
+2016,Eva White,03/15/2025,3/28/2025,Mouse,2,$800,1710,South
+2017,Sarah Lee,"March 9, 2025",3/28/2025,Tablet,1,$150,2681,South
+2018,Sarah Lee,2025-03-17,3/28/2025,Mouse,-3,650,4865,East
+2019,Alan Brown,"March 4, 2025",3/28/2025,Mouse,-3,$600,1122,North
+2020,Anna King,03/08/2025,3/28/2025,Mouse,2,$300,3275,South
+2021,Mike Green,03/10/2025,3/28/2025,Keyboard,-3,$800,1366,
+2022,Jane Smith,03/09/2025,3/28/2025,Charger,two,100,4195,East
+2023,Sarah Lee,"March 6, 2025",3/28/2025,Keyboard,1,850,3733,East
+2024,Lucas Gray,"March 13, 2025",3/28/2025,Laptop,three,$600,3323,South
+2025,,2025-03-06,3/28/2025,Keyboard,-3,850,195,North
+2026,Anna King,03/15/2025,3/28/2025,Tablet,3,100,3090,
+2027,Jane Smith,"March 20, 2025",3/28/2025,Tablet,two,$800,1512,North
+2028,Lucas Gray,"March 1, 2025",3/28/2025,Keyboard,-3,$200,4726,West
+2029,Mike Green,03/17/2025,3/28/2025,Charger,two,850,1634,West
+2030,John Doe,03/04/2025,3/28/2025,Monitor,-2,$600,532,South
+2031,Lucas Gray,03/09/2025,3/28/2025,Headphones,three,50,3229,South
+2032,Emma Stone,"March 9, 2025",3/28/2025,Charger,5,75,1299,South
+2033,Anna King,"March 6, 2025",3/28/2025,Keyboard,3,$300,4818,West
+2034,Olivia Adams,"March 13, 2025",3/28/2025,Mouse,3,$200,680,North
+2035,Lucas Gray,03/11/2025,3/28/2025,Phone,1,850,711,North
+2036,David Black,03/15/2025,3/28/2025,Headphones,two,$150,3553,South
+2037,John Doe,"March 20, 2025",3/28/2025,Headphones,2,$300,2902,
+2038,Robert Finch,03/13/2025,3/28/2025,Tablet,3,50,2516,North
+2039,Robert Finch,"March 12, 2025",3/28/2025,Headphones,two,100,1037,West
+2040,Emma Stone,03/01/2025,3/28/2025,Keyboard,two,75,1596,East
+2041,Lucas Gray,03/12/2025,3/28/2025,Mouse,4,$800,699,East
+2042,Lucas Gray,03/03/2025,3/28/2025,Mouse,4,50,1018,East
+2043,Lucas Gray,03/13/2025,3/28/2025,Laptop,5,50,2687,
+2044,,2025-03-03,3/28/2025,Mouse,-2,100,1150,South
+2045,,2025-03-18,3/28/2025,Charger,5,650,490,West
+2046,Alan Brown,03/05/2025,3/28/2025,Mouse,-3,100,819,
+2047,Lucas Gray,"March 2, 2025",3/28/2025,Tablet,2,650,1393,West
+2048,Chris Paul,03/11/2025,3/28/2025,Mouse,-3,650,4408,West
+2049,Eva White,"March 14, 2025",3/28/2025,Laptop,-3,$200,3779,South
+2050,David Black,"March 18, 2025",3/28/2025,Phone,1,$200,3956,East
+2051,Alan Brown,2025-03-03,3/28/2025,Keyboard,-3,$600,-1627,South
+2052,Mike Green,03/20/2025,3/28/2025,Tablet,5,850,4058,West
+2053,Alan Brown,"March 6, 2025",3/28/2025,Charger,3,850,3401,
+2054,Chris Paul,03/04/2025,3/28/2025,Phone,3,$800,4845,West
+2055,Mike Green,"March 10, 2025",3/28/2025,Tablet,4,850,2399,South
+2056,David Black,03/12/2025,3/28/2025,Monitor,2,$200,3652,West
+2057,Chris Paul,"March 7, 2025",3/28/2025,Headphones,2,$600,1291,West
+2058,Jane Smith,03/02/2025,3/28/2025,Monitor,1,$600,1175,North
+2059,Eva White,03/03/2025,3/28/2025,Mouse,5,650,2651,
+2060,David Black,2025-03-02,3/28/2025,Phone,4,100,1240,West
+2061,Lucas Gray,03/07/2025,3/28/2025,Mouse,2,$800,4181,North
+2062,,"March 2, 2025",3/28/2025,Headphones,3,650,4889,West
+2063,Jane Smith,2025-03-02,3/28/2025,Tablet,-3,100,4498,West
+2064,Emma Stone,03/06/2025,3/28/2025,Headphones,-3,850,122,East
+2065,David Black,2025-03-17,3/28/2025,Laptop,4,650,1964,
+2066,Emma Stone,03/20/2025,3/28/2025,Headphones,5,$300,2522,South
+2067,Mike Green,03/13/2025,3/28/2025,Laptop,5,850,3096,West
+2068,Jane Smith,2025-03-09,3/28/2025,Headphones,-2,100,757,West
+2069,Eva White,"March 3, 2025",3/28/2025,Keyboard,three,$800,1854,South
+2070,Lucas Gray,"March 14, 2025",3/28/2025,Laptop,2,100,3763,South
+2071,Lucas Gray,"March 8, 2025",3/28/2025,Phone,5,650,2614,East
+2072,Chris Paul,03/19/2025,3/28/2025,Mouse,3,650,2525,West
+2073,Lucas Gray,03/09/2025,3/28/2025,Charger,4,50,3660,West
+2074,Olivia Adams,"March 2, 2025",3/28/2025,Mouse,-2,$800,4305,East
+2075,Sarah Lee,"March 15, 2025",3/28/2025,Monitor,two,$150,2873,North
+2076,Alan Brown,03/06/2025,3/28/2025,Mouse,1,850,1785,East
+2077,,03/15/2025,3/28/2025,Tablet,two,$600,1635,
+2078,John Doe,"March 10, 2025",3/28/2025,Keyboard,-3,$800,116,West
+2079,Eva White,03/05/2025,3/28/2025,Headphones,1,$600,3111,South
+2080,Jane Smith,03/04/2025,3/28/2025,Monitor,2,$800,2478,
+2081,Sarah Lee,2025-03-13,3/28/2025,Tablet,3,$800,4203,West
+2082,Eva White,"March 20, 2025",3/28/2025,Tablet,1,100,391,East
+2083,Jane Smith,"March 18, 2025",3/28/2025,Laptop,three,$800,2824,
+2084,,2025-03-07,3/28/2025,Mouse,two,50,2867,West
+2085,Anna King,"March 17, 2025",3/28/2025,Phone,2,$150,2711,North
+2086,Anna King,03/16/2025,3/28/2025,Charger,three,650,1282,North
+2087,Emma Stone,"March 5, 2025",3/28/2025,Phone,-3,75,3924,South
+2088,Eva White,2025-03-20,3/28/2025,Monitor,three,$600,2451,West
+2089,Anna King,2025-03-01,3/28/2025,Keyboard,-2,650,1544,North
+2090,Olivia Adams,2025-03-08,3/28/2025,Phone,-2,75,4261,East
+2091,Jane Smith,"March 6, 2025",3/28/2025,Headphones,4,$150,711,West
+2092,Emma Stone,2025-03-16,3/28/2025,Phone,2,$150,3933,East
+2093,Lucas Gray,2025-03-14,3/28/2025,Monitor,-3,$600,3669,East
+2094,Jane Smith,2025-03-12,3/28/2025,Charger,5,$600,1918,North
+2095,Emma Stone,"March 11, 2025",3/28/2025,Phone,-2,$150,2384,West
+2096,,03/03/2025,3/28/2025,Headphones,2,75,3424,
+2097,Eva White,2025-03-15,3/28/2025,Laptop,5,$800,1066,North
+2098,Sarah Lee,03/08/2025,3/28/2025,Keyboard,4,850,4456,North
+2099,Sarah Lee,03/14/2025,3/28/2025,Monitor,three,$300,257,West
+2100,,2025-03-02,3/28/2025,Laptop,-2,650,2715,West
+2101,Chris Paul,03/12/2025,3/28/2025,Laptop,2,100,-2543,East
+2102,Lucas Gray,03/03/2025,3/28/2025,Laptop,1,650,682,West
+2103,David Black,03/02/2025,3/28/2025,Tablet,5,100,2152,East
+2104,,"March 11, 2025",3/28/2025,Keyboard,three,75,3009,North
+2105,Sarah Lee,03/05/2025,3/28/2025,Charger,-2,100,3133,South
+2106,Mike Green,"March 18, 2025",3/28/2025,Mouse,-3,$600,4802,
+2107,Olivia Adams,03/02/2025,3/28/2025,Keyboard,5,850,1981,North
+2108,Jane Smith,"March 18, 2025",3/28/2025,Tablet,-2,850,3769,West
+2109,Mike Green,"March 18, 2025",3/28/2025,Mouse,5,$600,2612,
+2110,Sarah Lee,03/02/2025,3/28/2025,Keyboard,three,50,1729,South
+2111,Emma Stone,"March 9, 2025",3/28/2025,Laptop,-2,75,286,South
+2112,David Black,"March 12, 2025",3/28/2025,Monitor,two,50,4493,East
+2113,Lucas Gray,"March 2, 2025",3/28/2025,Mouse,2,50,4775,
+2114,Lucas Gray,2025-03-06,3/28/2025,Headphones,three,650,1590,East
+2115,Lucas Gray,2025-03-15,3/28/2025,Headphones,5,$150,3993,North
+2116,Olivia Adams,"March 14, 2025",3/28/2025,Phone,-3,650,413,
+2117,David Black,"March 3, 2025",3/28/2025,Mouse,1,$150,2418,North
+2118,Olivia Adams,"March 20, 2025",3/28/2025,Monitor,5,$300,335,East
+2119,Olivia Adams,03/17/2025,3/28/2025,Charger,2,100,198,East
+2120,John Doe,03/13/2025,3/28/2025,Tablet,-2,$150,4087,East
+2121,David Black,2025-03-08,3/28/2025,Laptop,1,$600,4601,
+2122,Chris Paul,"March 13, 2025",3/28/2025,Phone,3,650,1816,East
+2123,David Black,"March 20, 2025",3/28/2025,Headphones,5,75,4945,South
+2124,Sarah Lee,"March 4, 2025",3/28/2025,Tablet,4,100,1062,East
+2125,John Doe,"March 4, 2025",3/28/2025,Tablet,3,$300,2881,South
+2126,Lucas Gray,2025-03-05,3/28/2025,Laptop,5,$150,2557,East
+2127,Sarah Lee,03/19/2025,3/28/2025,Charger,two,$300,1573,West
+2128,Sarah Lee,2025-03-04,3/28/2025,Charger,4,75,2835,
+2129,Robert Finch,2025-03-06,3/28/2025,Mouse,1,50,2606,North
+2130,Alan Brown,"March 5, 2025",3/28/2025,Headphones,-3,850,3775,West
+2131,John Doe,03/12/2025,3/28/2025,Charger,two,75,4626,North
+2132,Sarah Lee,"March 12, 2025",3/28/2025,Monitor,3,$200,1651,South
+2133,Alan Brown,03/10/2025,3/28/2025,Charger,-2,75,2458,South
+2134,Alan Brown,"March 7, 2025",3/28/2025,Tablet,2,$300,390,
+2135,John Doe,03/15/2025,3/28/2025,Laptop,-3,$600,2867,West
+2136,Robert Finch,"March 15, 2025",3/28/2025,Monitor,two,650,2546,South
+2137,Mike Green,03/20/2025,3/28/2025,Mouse,-2,$600,4980,West
+2138,Emma Stone,"March 12, 2025",3/28/2025,Headphones,-2,$300,1775,South
+2139,Chris Paul,2025-03-16,3/28/2025,Mouse,5,650,1739,East
+2140,Emma Stone,2025-03-13,3/28/2025,Tablet,two,$200,3317,North
+2141,David Black,"March 10, 2025",3/28/2025,Monitor,1,850,4456,North
+2142,Lucas Gray,"March 20, 2025",3/28/2025,Monitor,4,100,311,West
+2143,Chris Paul,"March 2, 2025",3/28/2025,Monitor,4,$300,1492,North
+2144,David Black,03/10/2025,3/28/2025,Tablet,3,$150,455,West
+2145,Sarah Lee,2025-03-19,3/28/2025,Tablet,3,$300,2240,West
+2146,Lucas Gray,2025-03-17,3/28/2025,Mouse,4,$300,4487,West
+2147,Jane Smith,"March 16, 2025",3/28/2025,Phone,1,650,293,North
+2148,John Doe,2025-03-19,3/28/2025,Mouse,2,$800,4635,West
+2149,Chris Paul,03/08/2025,3/28/2025,Headphones,three,75,4157,North
+2150,Chris Paul,"March 18, 2025",3/28/2025,Laptop,2,$800,610,West
+2151,,"March 15, 2025",3/28/2025,Monitor,5,$200,-4187,
+2152,Sarah Lee,03/06/2025,3/28/2025,Phone,three,$150,2775,West
+2153,Mike Green,03/17/2025,3/28/2025,Laptop,three,850,643,South
+2154,Alan Brown,03/06/2025,3/28/2025,Phone,two,50,1876,West
+2155,Lucas Gray,"March 13, 2025",3/28/2025,Charger,1,$200,3279,East
+2156,Sarah Lee,03/03/2025,3/28/2025,Charger,1,50,3337,West
+2157,Anna King,2025-03-09,3/28/2025,Keyboard,three,50,4123,South
+2158,Robert Finch,2025-03-12,3/28/2025,Charger,two,850,183,South
+2159,Alan Brown,"March 13, 2025",3/28/2025,Mouse,three,$600,3188,North
+2160,John Doe,2025-03-01,3/28/2025,Charger,-3,$800,3969,
+2161,Alan Brown,"March 18, 2025",3/28/2025,Tablet,3,$300,122,West
+2162,Mike Green,"March 18, 2025",3/28/2025,Monitor,3,100,4544,North
+2163,,2025-03-01,3/28/2025,Mouse,2,50,4275,
+2164,Alan Brown,"March 7, 2025",3/28/2025,Laptop,5,$150,3028,West
+2165,John Doe,03/14/2025,3/28/2025,Keyboard,3,$200,4411,East
+2166,Mike Green,03/12/2025,3/28/2025,Keyboard,-2,$600,2035,West
+2167,Emma Stone,"March 14, 2025",3/28/2025,Keyboard,2,50,842,South
+2168,Chris Paul,"March 8, 2025",3/28/2025,Laptop,3,$600,4309,South
+2169,,03/05/2025,3/28/2025,Laptop,5,$600,144,East
+2170,Chris Paul,03/20/2025,3/28/2025,Laptop,1,50,1183,North
+2171,Robert Finch,"March 5, 2025",3/28/2025,Laptop,1,650,4967,
+2172,David Black,"March 13, 2025",3/28/2025,Keyboard,three,75,287,West
+2173,Emma Stone,2025-03-01,3/28/2025,Keyboard,-3,$150,2996,South
+2174,Emma Stone,2025-03-16,3/28/2025,Phone,1,$300,2580,North
+2175,Lucas Gray,03/19/2025,3/28/2025,Mouse,two,$300,2010,East
+2176,Olivia Adams,2025-03-05,3/28/2025,Monitor,3,$150,1098,South
+2177,Alan Brown,03/02/2025,3/28/2025,Charger,two,650,2579,East
+2178,Chris Paul,03/09/2025,3/28/2025,Charger,5,$300,3014,West
+2179,John Doe,"March 15, 2025",3/28/2025,Tablet,1,$600,1013,
+2180,Eva White,2025-03-03,3/28/2025,Keyboard,-3,850,586,South
+2181,Olivia Adams,2025-03-12,3/28/2025,Tablet,5,$200,4273,South
+2182,Eva White,03/06/2025,3/28/2025,Mouse,-2,$800,3729,West
+2183,,2025-03-16,3/28/2025,Mouse,-2,$300,4237,North
+2184,Mike Green,"March 11, 2025",3/28/2025,Tablet,two,$150,3774,South
+2185,Chris Paul,03/17/2025,3/28/2025,Keyboard,three,850,592,South
+2186,Chris Paul,03/02/2025,3/28/2025,Tablet,2,50,895,South
+2187,Olivia Adams,"March 17, 2025",3/28/2025,Charger,three,75,3653,South
+2188,Robert Finch,03/09/2025,3/28/2025,Phone,three,$150,3086,
+2189,Olivia Adams,2025-03-14,3/28/2025,Charger,-3,$600,2544,East
+2190,Eva White,03/08/2025,3/28/2025,Headphones,1,75,4535,South
+2191,Olivia Adams,2025-03-05,3/28/2025,Keyboard,-3,$200,2769,
+2192,Chris Paul,"March 7, 2025",3/28/2025,Keyboard,5,$200,1934,North
+2193,Robert Finch,"March 9, 2025",3/28/2025,Monitor,-2,650,4188,East
+2194,Alan Brown,03/10/2025,3/28/2025,Laptop,-3,100,4399,East
+2195,Anna King,"March 6, 2025",3/28/2025,Headphones,5,650,3251,North
+2196,Lucas Gray,"March 12, 2025",3/28/2025,Mouse,-3,850,2760,
+2197,Jane Smith,2025-03-05,3/28/2025,Keyboard,three,75,2003,West
+2198,Emma Stone,2025-03-12,3/28/2025,Tablet,3,100,4787,North
+2199,Olivia Adams,2025-03-16,3/28/2025,Headphones,two,50,3900,
+2200,,03/06/2025,3/28/2025,Monitor,2,$600,739,North
+2201,David Black,03/06/2025,3/28/2025,Mouse,-3,75,-2000,North
+2202,Mike Green,"March 8, 2025",3/28/2025,Laptop,2,650,506,South
+2203,Anna King,03/01/2025,3/28/2025,Laptop,4,$800,2180,
+2204,Lucas Gray,03/19/2025,3/28/2025,Monitor,-3,100,4026,West
+2205,Lucas Gray,03/16/2025,3/28/2025,Monitor,3,100,4294,South
+2206,Lucas Gray,03/13/2025,3/28/2025,Tablet,2,$600,1229,North
+2207,Lucas Gray,03/10/2025,3/28/2025,Keyboard,-3,$300,4335,North
+2208,Eva White,03/17/2025,3/28/2025,Laptop,1,$200,3615,North
+2209,,03/03/2025,3/28/2025,Mouse,two,$200,932,North
+2210,,"March 18, 2025",3/28/2025,Headphones,3,$800,449,
+2211,Robert Finch,2025-03-10,3/28/2025,Mouse,2,850,658,South
+2212,Emma Stone,"March 14, 2025",3/28/2025,Phone,3,850,1688,West
+2213,Chris Paul,2025-03-05,3/28/2025,Phone,5,50,2198,South
+2214,Lucas Gray,03/16/2025,3/28/2025,Monitor,two,75,1432,East
+2215,David Black,03/14/2025,3/28/2025,Tablet,-3,$150,1453,North
+2216,Chris Paul,"March 12, 2025",3/28/2025,Phone,-3,$300,869,North
+2217,,03/11/2025,3/28/2025,Laptop,-3,650,3342,North
+2218,John Doe,2025-03-10,3/28/2025,Mouse,two,$150,869,South
+2219,John Doe,"March 18, 2025",3/28/2025,Mouse,1,$150,469,South
+2220,David Black,2025-03-19,3/28/2025,Monitor,4,100,4269,North
+2221,Robert Finch,"March 18, 2025",3/28/2025,Keyboard,-2,$800,4567,South
+2222,,03/12/2025,3/28/2025,Keyboard,three,$200,3352,North
+2223,David Black,2025-03-01,3/28/2025,Headphones,2,50,1558,
+2224,Eva White,"March 16, 2025",3/28/2025,Monitor,1,850,817,South
+2225,Olivia Adams,2025-03-05,3/28/2025,Charger,2,$800,2094,North
+2226,David Black,"March 5, 2025",3/28/2025,Headphones,-3,100,2189,South
+2227,Alan Brown,2025-03-04,3/28/2025,Charger,3,650,3079,South
+2228,Chris Paul,2025-03-16,3/28/2025,Keyboard,2,50,1599,South
+2229,Anna King,03/04/2025,3/28/2025,Monitor,-3,100,1814,East
+2230,Sarah Lee,2025-03-16,3/28/2025,Charger,2,$200,2695,
+2231,Robert Finch,"March 15, 2025",3/28/2025,Monitor,3,$200,3766,West
+2232,David Black,2025-03-02,3/28/2025,Monitor,-3,$200,4655,West
+2233,,"March 9, 2025",3/28/2025,Keyboard,4,$800,4531,East
+2234,Mike Green,03/08/2025,3/28/2025,Headphones,1,$800,2343,South
+2235,John Doe,03/12/2025,3/28/2025,Headphones,5,850,4887,East
+2236,Alan Brown,03/07/2025,3/28/2025,Monitor,three,850,2758,East
+2237,Emma Stone,2025-03-20,3/28/2025,Phone,two,650,950,North
+2238,Lucas Gray,03/04/2025,3/28/2025,Tablet,three,50,3134,
+2239,Sarah Lee,2025-03-12,3/28/2025,Keyboard,three,$600,2059,West
+2240,Robert Finch,"March 10, 2025",3/28/2025,Tablet,-3,$600,291,South
+2241,Anna King,03/15/2025,3/28/2025,Tablet,4,100,2435,West
+2242,Sarah Lee,"March 20, 2025",3/28/2025,Headphones,5,$200,4318,West
+2243,David Black,03/13/2025,3/28/2025,Headphones,1,50,721,
+2244,Eva White,03/13/2025,3/28/2025,Phone,1,$150,213,West
+2245,John Doe,"March 11, 2025",3/28/2025,Tablet,3,$800,514,West
+2246,,"March 3, 2025",3/28/2025,Tablet,two,75,3092,East
+2247,John Doe,03/17/2025,3/28/2025,Monitor,2,$300,4642,
+2248,Emma Stone,2025-03-12,3/28/2025,Headphones,4,650,4845,North
+2249,Eva White,2025-03-03,3/28/2025,Tablet,2,$200,2492,South
+2250,Lucas Gray,2025-03-01,3/28/2025,Mouse,5,$200,4848,West
+2251,,03/13/2025,3/28/2025,Phone,three,$200,-2405,South
+2252,Chris Paul,03/20/2025,3/28/2025,Charger,1,$800,4328,North
+2253,Jane Smith,2025-03-10,3/28/2025,Mouse,5,$800,4774,South
+2254,Alan Brown,"March 3, 2025",3/28/2025,Mouse,three,$300,2607,North
+2255,John Doe,"March 4, 2025",3/28/2025,Charger,1,$150,595,East
+2256,Mike Green,03/09/2025,3/28/2025,Keyboard,three,50,4769,West
+2257,John Doe,2025-03-13,3/28/2025,Keyboard,two,$200,3885,North
+2258,Sarah Lee,2025-03-12,3/28/2025,Phone,4,$600,643,South
+2259,John Doe,03/11/2025,3/28/2025,Mouse,5,850,4889,West
+2260,Robert Finch,"March 6, 2025",3/28/2025,Tablet,5,$600,3854,East
+2261,John Doe,2025-03-02,3/28/2025,Headphones,-2,100,1509,West
+2262,Jane Smith,"March 11, 2025",3/28/2025,Phone,-3,$600,3543,North
+2263,Jane Smith,"March 10, 2025",3/28/2025,Monitor,two,100,2651,East
+2264,Lucas Gray,03/15/2025,3/28/2025,Charger,two,75,2494,South
+2265,Anna King,03/03/2025,3/28/2025,Mouse,2,850,2722,East
+2266,Chris Paul,2025-03-17,3/28/2025,Phone,three,$600,4250,East
+2267,Mike Green,03/06/2025,3/28/2025,Laptop,-3,75,66,
+2268,John Doe,2025-03-08,3/28/2025,Laptop,4,650,3241,East
+2269,John Doe,03/09/2025,3/28/2025,Keyboard,4,50,442,East
+2270,Alan Brown,03/06/2025,3/28/2025,Charger,two,75,474,West
+2271,,2025-03-10,3/28/2025,Headphones,4,50,621,South
+2272,Jane Smith,03/06/2025,3/28/2025,Tablet,-2,$600,3681,West
+2273,Mike Green,03/14/2025,3/28/2025,Headphones,5,$150,1170,West
+2274,Lucas Gray,"March 11, 2025",3/28/2025,Headphones,3,75,291,North
+2275,Emma Stone,"March 1, 2025",3/28/2025,Headphones,2,850,3947,West
+2276,Anna King,2025-03-07,3/28/2025,Charger,three,$600,4145,
+2277,Chris Paul,2025-03-04,3/28/2025,Headphones,three,$200,2329,
+2278,Eva White,"March 18, 2025",3/28/2025,Monitor,1,$800,838,North
+2279,Chris Paul,"March 13, 2025",3/28/2025,Charger,3,75,764,South
+2280,Robert Finch,"March 10, 2025",3/28/2025,Monitor,two,850,4904,South
+2281,Sarah Lee,"March 5, 2025",3/28/2025,Charger,-2,650,2899,West
+2282,Robert Finch,2025-03-11,3/28/2025,Keyboard,5,$200,825,West
+2283,John Doe,03/09/2025,3/28/2025,Phone,5,650,4076,West
+2284,Anna King,"March 16, 2025",3/28/2025,Laptop,-2,$600,2297,South
+2285,Sarah Lee,03/16/2025,3/28/2025,Headphones,-3,$800,128,East
+2286,Mike Green,03/05/2025,3/28/2025,Keyboard,1,75,3976,
+2287,Eva White,03/01/2025,3/28/2025,Phone,three,75,905,East
+2288,Jane Smith,"March 17, 2025",3/28/2025,Laptop,3,$150,2198,East
+2289,Anna King,03/16/2025,3/28/2025,Mouse,4,$150,1081,South
+2290,Anna King,2025-03-10,3/28/2025,Tablet,1,$600,4990,East
+2291,Robert Finch,03/17/2025,3/28/2025,Monitor,3,$600,3321,North
+2292,John Doe,2025-03-09,3/28/2025,Mouse,2,$800,3626,West
+2293,David Black,03/04/2025,3/28/2025,Charger,2,$150,4232,North
+2294,Lucas Gray,03/15/2025,3/28/2025,Laptop,1,850,3506,
+2295,Robert Finch,"March 9, 2025",3/28/2025,Mouse,two,850,3556,West
+2296,Anna King,03/15/2025,3/28/2025,Tablet,3,$800,457,East
+2297,Olivia Adams,"March 8, 2025",3/28/2025,Keyboard,3,850,2761,
+2298,Alan Brown,03/16/2025,3/28/2025,Laptop,-2,100,3138,West
+2299,Eva White,2025-03-18,3/28/2025,Mouse,two,50,1718,East
+2300,Lucas Gray,"March 9, 2025",3/28/2025,Monitor,three,$800,197,North
+2301,Robert Finch,03/19/2025,3/28/2025,Monitor,three,$800,-4377,West
+2302,Eva White,03/12/2025,3/28/2025,Phone,4,$300,3947,East
+2303,Alan Brown,03/04/2025,3/28/2025,Mouse,5,$200,2000,North
+2304,Emma Stone,03/03/2025,3/28/2025,Headphones,2,$200,415,
+2305,Alan Brown,03/12/2025,3/28/2025,Mouse,three,100,1724,West
+2306,Alan Brown,03/17/2025,3/28/2025,Keyboard,two,$150,4581,West
+2307,Eva White,2025-03-12,3/28/2025,Laptop,3,$600,4544,South
+2308,Chris Paul,"March 9, 2025",3/28/2025,Laptop,three,$600,2596,South
+2309,Eva White,"March 15, 2025",3/28/2025,Keyboard,3,650,612,West
+2310,David Black,2025-03-13,3/28/2025,Mouse,three,100,3612,West
+2311,John Doe,03/03/2025,3/28/2025,Keyboard,2,$800,2539,South
+2312,Sarah Lee,03/05/2025,3/28/2025,Tablet,three,100,822,East
+2313,Chris Paul,03/15/2025,3/28/2025,Charger,two,100,2087,East
+2314,Jane Smith,"March 1, 2025",3/28/2025,Keyboard,three,100,3473,
+2315,Sarah Lee,03/10/2025,3/28/2025,Monitor,5,$200,2617,North
+2316,John Doe,2025-03-17,3/28/2025,Keyboard,2,100,1623,East
+2317,Robert Finch,"March 9, 2025",3/28/2025,Laptop,two,50,3744,North
+2318,Lucas Gray,2025-03-20,3/28/2025,Monitor,-2,$600,3341,West
+2319,David Black,"March 8, 2025",3/28/2025,Laptop,two,650,1296,North
+2320,David Black,03/05/2025,3/28/2025,Phone,5,50,3769,West
+2321,Jane Smith,03/02/2025,3/28/2025,Headphones,2,650,3889,South
+2322,Chris Paul,2025-03-13,3/28/2025,Laptop,-2,$300,409,South
+2323,,"March 19, 2025",3/28/2025,Monitor,5,650,2426,South
+2324,Emma Stone,2025-03-19,3/28/2025,Phone,5,$600,3059,East
+2325,Alan Brown,"March 9, 2025",3/28/2025,Laptop,1,$600,3043,East
+2326,Chris Paul,03/16/2025,3/28/2025,Tablet,2,100,1012,West
+2327,Lucas Gray,2025-03-12,3/28/2025,Keyboard,two,75,3682,
+2328,Emma Stone,"March 1, 2025",3/28/2025,Headphones,3,$300,1877,North
+2329,David Black,2025-03-19,3/28/2025,Laptop,3,$800,1663,West
+2330,Eva White,2025-03-12,3/28/2025,Phone,two,850,1690,South
+2331,Lucas Gray,2025-03-09,3/28/2025,Tablet,two,650,2266,East
+2332,John Doe,2025-03-07,3/28/2025,Mouse,2,75,4362,West
+2333,Jane Smith,03/08/2025,3/28/2025,Phone,two,100,427,West
+2334,John Doe,2025-03-14,3/28/2025,Keyboard,1,$200,4264,North
+2335,,03/11/2025,3/28/2025,Phone,-2,$800,4335,East
+2336,Lucas Gray,"March 12, 2025",3/28/2025,Tablet,two,$150,419,South
+2337,Mike Green,2025-03-19,3/28/2025,Phone,3,75,2246,West
+2338,Mike Green,"March 18, 2025",3/28/2025,Tablet,two,$200,3797,West
+2339,Robert Finch,"March 7, 2025",3/28/2025,Laptop,1,$300,701,North
+2340,Chris Paul,2025-03-16,3/28/2025,Charger,three,100,819,
+2341,David Black,"March 13, 2025",3/28/2025,Tablet,three,$800,2471,South
+2342,David Black,2025-03-05,3/28/2025,Tablet,5,$800,830,East
+2343,Alan Brown,03/15/2025,3/28/2025,Headphones,4,$800,1766,West
+2344,Alan Brown,2025-03-12,3/28/2025,Tablet,-2,$300,4033,West
+2345,Alan Brown,03/05/2025,3/28/2025,Tablet,-3,650,1361,South
+2346,Eva White,"March 12, 2025",3/28/2025,Mouse,5,$150,3409,
+2347,Sarah Lee,"March 19, 2025",3/28/2025,Charger,three,$300,572,West
+2348,Anna King,03/01/2025,3/28/2025,Laptop,3,850,571,South
+2349,Sarah Lee,03/16/2025,3/28/2025,Keyboard,-3,$150,4928,North
+2350,John Doe,"March 13, 2025",3/28/2025,Headphones,5,$600,2370,
+2351,Sarah Lee,03/03/2025,3/28/2025,Mouse,-3,100,-985,East
+2352,Eva White,2025-03-16,3/28/2025,Monitor,2,$300,2280,West
+2353,Robert Finch,"March 17, 2025",3/28/2025,Charger,4,$200,4090,South
+2354,John Doe,03/19/2025,3/28/2025,Laptop,2,$150,4633,North
+2355,Sarah Lee,"March 5, 2025",3/28/2025,Laptop,-3,850,4991,East
+2356,Eva White,"March 13, 2025",3/28/2025,Monitor,2,$600,3747,South
+2357,Anna King,"March 2, 2025",3/28/2025,Keyboard,1,650,2887,South
+2358,Sarah Lee,"March 18, 2025",3/28/2025,Tablet,three,$200,4133,East
+2359,Eva White,03/19/2025,3/28/2025,Mouse,1,$150,2511,North
+2360,,2025-03-14,3/28/2025,Phone,two,100,3293,North
+2361,Alan Brown,03/11/2025,3/28/2025,Headphones,2,$200,3409,
+2362,,"March 18, 2025",3/28/2025,Phone,two,$600,735,West
+2363,David Black,2025-03-05,3/28/2025,Monitor,3,$200,2210,East
+2364,Alan Brown,03/15/2025,3/28/2025,Laptop,-2,50,4038,East
+2365,David Black,03/03/2025,3/28/2025,Keyboard,3,75,4116,East
+2366,Olivia Adams,03/09/2025,3/28/2025,Laptop,-3,650,1617,North
+2367,Jane Smith,"March 3, 2025",3/28/2025,Headphones,three,$600,88,West
+2368,,2025-03-11,3/28/2025,Laptop,2,$200,2594,
+2369,Jane Smith,2025-03-18,3/28/2025,Laptop,5,75,4925,South
+2370,Jane Smith,"March 7, 2025",3/28/2025,Headphones,-2,75,1306,South
+2371,Anna King,2025-03-12,3/28/2025,Mouse,4,$200,3040,East
+2372,Alan Brown,2025-03-09,3/28/2025,Mouse,4,100,2246,West
+2373,Olivia Adams,2025-03-10,3/28/2025,Headphones,4,50,3518,North
+2374,David Black,"March 18, 2025",3/28/2025,Keyboard,2,$300,2758,West
+2375,Eva White,"March 4, 2025",3/28/2025,Monitor,4,50,351,West
+2376,John Doe,2025-03-17,3/28/2025,Charger,1,$200,696,North
+2377,Eva White,03/18/2025,3/28/2025,Laptop,-2,650,4808,East
+2378,John Doe,2025-03-07,3/28/2025,Keyboard,1,$300,1809,West
+2379,,"March 6, 2025",3/28/2025,Laptop,-2,$600,4401,South
+2380,Mike Green,2025-03-13,3/28/2025,Charger,1,50,647,North
+2381,Eva White,03/20/2025,3/28/2025,Monitor,-2,$200,711,
+2382,Sarah Lee,"March 2, 2025",3/28/2025,Mouse,two,50,4380,East
+2383,Sarah Lee,2025-03-09,3/28/2025,Keyboard,2,$300,1418,North
+2384,Chris Paul,"March 10, 2025",3/28/2025,Tablet,2,850,2631,
+2385,Alan Brown,03/07/2025,3/28/2025,Tablet,4,$150,3918,West
+2386,John Doe,"March 18, 2025",3/28/2025,Charger,3,50,3587,West
+2387,John Doe,2025-03-02,3/28/2025,Tablet,4,$600,4915,West
+2388,Lucas Gray,2025-03-05,3/28/2025,Mouse,-3,$600,4358,West
+2389,Robert Finch,03/09/2025,3/28/2025,Charger,1,$800,4608,North
+2390,Alan Brown,03/17/2025,3/28/2025,Mouse,-2,50,332,North
+2391,Anna King,03/18/2025,3/28/2025,Monitor,3,$150,3728,East
+2392,Chris Paul,2025-03-19,3/28/2025,Laptop,-3,100,1536,West
+2393,Anna King,2025-03-08,3/28/2025,Monitor,2,75,4132,
+2394,,"March 8, 2025",3/28/2025,Monitor,2,$150,4233,South
+2395,,"March 5, 2025",3/28/2025,Mouse,4,75,510,East
+2396,Anna King,2025-03-01,3/28/2025,Charger,1,75,2375,North
+2397,Anna King,03/02/2025,3/28/2025,Charger,3,850,3804,East
+2398,Olivia Adams,"March 12, 2025",3/28/2025,Tablet,three,$800,2518,East
+2399,Alan Brown,2025-03-17,3/28/2025,Phone,-3,$150,1774,East
+2400,Anna King,2025-03-07,3/28/2025,Laptop,-3,$150,1426,East
